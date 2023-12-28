@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "browser-resolve": "^2.0.0",
+    "bs58": "^5.0.0",
+    "esmify": "^2.1.1"
+  }
+}
